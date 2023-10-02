@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Tommy
+Build-Jdk: 1.7.0_60
+Boot-Class-Path: javassist-3.18.1-GA.jar
+Can-Redefine-Classes: false
+Created-By: Maven Integration for Eclipse
+Premain-Class: com.bit.javassist.AgentMain2
+Project-name: bit-javassist
+Project-version: 1.0-SNAPSHOT
+
